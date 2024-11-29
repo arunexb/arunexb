@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunexb
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C programing language
+- 👋 Hi, I’m @arunexb I'm Student
+- 👀 I’m interested in Computer Science and Electrical and Electronics Enginearing.
+- 🌱 I’m currently learning C and C++ programing language.
 
